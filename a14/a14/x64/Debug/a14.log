@@ -1,0 +1,5 @@
+﻿  Reading Qt configuration (C:/Qt/6.3.0/msvc2019_64/bin/qmake)
+  a14.cpp
+C:\Users\dance\OneDrive\Dokumentumok\GitHub\a14-912-dancea-daniel\a14\a14\validator.h(2,1): warning C4005: '_HAS_STD_BYTE': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\yvals_core.h(637): message : see previous definition of '_HAS_STD_BYTE'
+  a14.vcxproj -> C:\Users\dance\OneDrive\Dokumentumok\GitHub\a14-912-dancea-daniel\a14\x64\Debug\a14.exe
